@@ -69,4 +69,4 @@ cd philo_bonus && make
 
 ## Author
 
-[kchaouki](https://github.com/karimch-50) — student at 1337 (42 Network)
+kchaouki
